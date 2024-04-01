@@ -8,3 +8,7 @@ I like the look and feel so far so turn me into a believer.
 
 After a few years I've decided to really try to understand git at a higher level.
 This is my first attempt to do some stuff on my own with it. 
+
+### Using the other source control
+
+This should be simpler. We will see. 
